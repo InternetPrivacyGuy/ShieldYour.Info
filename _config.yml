@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 name: Search Encrypt GitHub Page
 markdown: kramdown
-permalink: /blog/:title
+permalink: /blog/:year/:month/:day/:title
