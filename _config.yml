@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 name: Shield Your Info
 description: Sharing Internet Privacy and Security Tips
+logo: assets/shield your info-01.png
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 plugins:
