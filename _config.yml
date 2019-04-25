@@ -4,3 +4,17 @@ markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 plugins:
   - jekyll-seo-tag
+twitter:
+  username: searchencrypt
+  card: summary
+facebook:
+  publisher: https://www.facebook.com/searchencrypt
+social:
+  name: Search Encrypt
+  links:
+    - https://twitter.com/SearchEncrypt
+    - https://www.facebook.com/searchencrypt
+    - https://www.linkedin.com/company/search-encrypt/
+    - https://github.com/SearchEncrypt
+    
+    
