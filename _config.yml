@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
-name: Search Encrypt GitHub Page
+name: Shield Your Info
+description: Sharing Internet Privacy and Security Tips
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 plugins:
