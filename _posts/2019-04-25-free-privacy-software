@@ -1,0 +1,111 @@
+Free and open source tools are the most trusted and respected privacy tools available. Since anyone can view the source code behind them, these tools are held to a higher standard than private and paid, for-profit options. We've shared a number of privacy tools before, but this list is focused on free options.
+
+<strong>Contents:</strong>
+<ul>
+ 	<li style="list-style-type: none;">
+<ul>
+ 	<li><strong><a href="#encryption">File &amp; Network Encryption</a></strong></li>
+ 	<li><strong><a href="#ad-blockers">Ad Blockers</a></strong></li>
+ 	<li><strong><a href="#private-browsers">Private Browsers</a></strong></li>
+ 	<li><strong><a href="#private-email">Free Private Email Services</a></strong></li>
+ 	<li><strong><a href="#password-managers">Password Managers</a></strong></li>
+ 	<li><strong><a href="#spyware-removal">Spyware Removal</a></strong></li>
+ 	<li><strong><a href="#privacy-laws">Legality of Privacy Tools</a></strong></li>
+</ul>
+</li>
+</ul>
+<h2 id="encryption"><strong>File &amp; Network Encryption</strong></h2>
+Encryption is arguably the best way to keep data secure on the internet. These tools will help you encrypt your internet connection and the files that you have both on your device and stored online.
+<ul>
+ 	<li style="list-style-type: none;">
+<ul>
+ 	<li><strong>GNU Privacy Guard: </strong><a href="https://www.gnupg.org/">GnuPG</a> is a free implementation of the OpenPGP standard. It lets you encrypt your data and communications. This is a command line tool, so it's for more technically advanced users, although GNU Privacy Guard has a number of easy integrations with other applications. GnuPG was first introduced in 1997 and has been a great piece of free software ever since.</li>
+ 	<li><strong>Pretty Easy Privacy: </strong>Pretty Easy Privacy (p≡p) began in 2012 as an easy-to-use, automatic solution to protect privacy in written digital communications. PEP is an open-source tool to encrypt the contents of your emails. Pretty Easy Privacy is based in Switzerland so it falls under strict Swiss privacy laws. Its "vision is to offer an automatic and easy to use solution to make all end-to-end written digital communications over the Internet ‘Private and Secure by Default and Design‘."</li>
+ 	<li><strong>Pretty Good Privacy: </strong>Pretty Good Privacy (PGP) is an encryption program that is used for keeping your communication data private and encrypted. You can use PGP in conjunction with your current email provider to keep your emails secure.</li>
+ 	<li><strong>Secure Shell: </strong>Secure Shell (SSH) is a cryptographic protocol for operating network services securely over an unsecured network. SSH is typically used to log into a remote machine and execute commands, but also supports tunneling, forwarding TCP ports and X11 connections. Any network service can be secured with SSH as it works to encrypt the data transferred over a network. It's still a commonly used network security measure, but files leaked by Edward Snowden revealed that the NSA can sometimes decrypt SSH, letting them view the data being transferred over the network.</li>
+ 	<li><strong>I2P: </strong>I2P is short for The Invisible Internet Project. It's an anonymous network, that exposes a simple layer for applications to use to communicate anonymously. All communication over I2P is end-to-end encrypted with four layers of encryption. I2P is a free and open source tool, that has some of the same functionality as Tor. It encrypts your traffic and sends it through a volunteer-run network of over 50,000 computers around the world. I2P is intended to be a "network within the internet" by keeping traffic completely within its network.</li>
+ 	<li><strong>Tor: </strong>Tor is similar to I2P, as it also redirects traffic through a network of volunteer-run connections. With Tor, as opposed to I2P, your connection is bounced around a number of networks before finally reaching an exit node. Tor also lets you access "hidden services" These are servers that are only available from within the Tor network. If you're using Tor or I2P, your ISP can see that you are using those networks, so to prevent an ISP from seeing you're using these you can use a VPN as an entry point.</li>
+ 	<li><strong>Privoxy: </strong>Privoxy is a privacy-friendly, non-caching web proxy with advanced filtering capabilities. It lets you modify web page data and HTTP headers, while controlling access and removing ads and other obnoxious internet content. Privoxy has a flexible configuration and can be customized to suit individual needs and tastes. It has application for both stand-alone systems and multi-user networks.</li>
+ 	<li><strong>uProxy: </strong>uProxy is a browser extension for Chrome and Firefox that lets users connect to the internet via a web proxy. It was an open source project led by the University of Washington, however it's no longer supported. It's code is still available on <a href="https://github.com/uProxy">GitHub</a>, though.</li>
+</ul>
+</li>
+</ul>
+
+<hr />
+
+<h2 id="ad-blockers"><strong>Ad Blockers</strong></h2>
+The ads you see online are often determined by your past browsing behavior, and then when they load on the website you're on they may contain additional tracking scripts. These require additional bandwidth and could be slowing down your browsing. Blocking ads will clean up your internet experience and get rid of annoying distractions.
+<ul>
+ 	<li style="list-style-type: none;">
+<ul>
+ 	<li><strong>Ad Guardian: </strong><a href="https://chrome.google.com/webstore/detail/ad-guardian-ad-blocker/flmhlkffgljlagckfmfadchoffohagbk">Ad Guardian</a> improves your internet experience by blocking annoying ads. Ad Guardian's functionality is similar to other ad blockers, but with added privacy features. With Ad Guardian, your web browsing will be much faster and more user-friendly. If ads don't take time to load, the pages you visit will load noticeably faster. Ad Guardian protects you from tracking scripts that may be hidden in the ads on the sites you visit.</li>
+ 	<li><strong>uBlock Origin: </strong><a href="https://github.com/gorhill/uBlock/">uBlock Origin</a> is a free and open-source, cross-platform browser extension for content-filtering, including ad-blocking. The extension is available for several browsers: Safari, Chrome, Chromium, Edge, Firefox, and Opera. uBlock Origin is noted for being much less memory-intrusive than other extensions. Its Chrome extension has over 10 million users and its Firefox extension has over 5 million.</li>
+</ul>
+</li>
+</ul>
+
+<hr />
+
+<h2 id="private-browsers"><strong>Private Browsers</strong></h2>
+These browsers have built-in ad and tracker blockers and other built-in privacy features. Google Chrome, for example, collects information about your internet behavior and then collects that information into your data profile. These browsers are just one tool in your privacy toolkit, but since all of your internet activity comes through your browser it's plays a vital role.
+<ul>
+ 	<li style="list-style-type: none;">
+<ul>
+ 	<li><strong>Tor Browser: </strong><a href="https://www.torproject.org/projects/torbrowser.html.en"><strong>Tor Browser</strong></a> lets you use Tor on Microsoft Windows, Apple MacOS, or GNU/Linux without needing to install any software. It can run off a USB flash drive, comes with a pre-configured web browser to protect your anonymity, and is self-contained (portable). Tor keeps you anonymous by bouncing your internet communications around a distributed network of relays run by volunteers all over the world. It prevents somebody watching your Internet connection from learning what sites you visit, it prevents the sites you visit from learning your physical location, and it lets you access sites which are blocked.</li>
+ 	<li><strong>Mozilla Firefox: </strong><a href="https://www.mozilla.org/en-US/firefox/"><strong>Mozilla</strong></a> has added many new privacy protection features to its latest versions of Firefox. Firefox warns users when login forms aren’t secure and could be leaking private information. It also blocks insecure content from loading on secure web pages. Another unique feature is the built-in phishing and malware protection.</li>
+ 	<li><strong>Portable Firefox: </strong>Portable Firefox is the same as Mozilla Firefox, but it can be run from a cloud folder, external driver without actually installing it on your machine. Using a portable browser can help keep your internet browsing separate from the files on your computer.</li>
+ 	<li><strong>Brave: </strong><a href="https://brave.com/"><strong>Brave</strong></a> fights malware and prevents tracking, keeping your information safe and secure. Its servers don’t see or store your browsing data. Brave also blocks ads from loading so it can speed up your browsing experience. Brave is also attempting to implement a blockchain-based advertising method which prioritizes user attention over user data. We discussed Brave and how it works in <a href="http://choosetoencrypt.com/news/brave-browser-review/">this blog post</a>.</li>
+</ul>
+</li>
+</ul>
+
+<hr />
+
+<h2 id="private-email"><strong>Free Private Email Services</strong></h2>
+<a href="https://choosetoencrypt.com/privacy/11-private-email-services-to-keep-your-emails-confidential/">Private email services</a> generally use encryption to keep the contents of your emails hidden from anyone besides your intended recipient. These providers will keep your emails more private than more popular email providers like Gmail or Outlook. You could set up your own email server with added privacy protections, but that's a time consuming and often expensive process that in the end may not deliver the privacy you’re looking for.
+<ul>
+ 	<li style="list-style-type: none;">
+<ul>
+ 	<li><strong>ProtonMail: </strong>ProtonMail is one of the most well-known secure email providers. It allows users to send encrypted emails to their contacts, even if the other user doesn’t use ProtonMail. It’s also very simple to set up, which can’t be said for other private email services.</li>
+ 	<li><strong>Tutanota: </strong>Tutanota is an open-source end-to-end encrypted email software and freemium hosted secure email service. Its business model excludes earning money through advertisement relying solely on donations and Premium subscriptions. As of March 2017, Tutanota had over 2 million users.</li>
+ 	<li><strong>Mailfence: </strong>Mailfence is an encrypted email service that uses OpenPGP encryption and digital signatures. It is available in a free form with limited storage capacity. Paid plans are also available for those looking for more features and storage. You can also find a <a href="https://mailfence.com/m/">mobile version here</a>. If you currently use Ymail, Gmail or Hotmail, you can import your account into Mailfence for more privacy.</li>
+</ul>
+</li>
+</ul>
+
+<hr />
+
+<h2 id="password-managers"><strong>Password Managers</strong></h2>
+In almost every case, your password is the first line of defense from preventing hackers from accessing your data. You should use long, complex passwords to make cracking your login as difficult as possible. These complicated passwords are difficult to remember, which is why a password manager is an essential tool.
+<ul>
+ 	<li style="list-style-type: none;">
+<ul>
+ 	<li><strong>LastPass: </strong><a href="https://www.lastpass.com/">LastPass</a> is available as a browser extension and a native app. For the most security, we recommend using the app version rather than the browser extension. With the app you can access all of your passwords with your fingerprint. It uses AES-256 encryption to keep your passwords hidden. Your data is encrypted locally so that your master password and your encryption keys are never sent to LastPass’ server.</li>
+ 	<li><strong>LessPass: </strong>LessPass is a stateless password manager that works offline. LessPass is fully open source, and you can view its source code on <a href="https://github.com/lesspass/lesspass">GitHub</a>. <a href="https://lesspass.com/#/">LessPass</a> computes a unique password using a site, login and a master password. You don’t need to sync a password vault across every device because LessPass works offline. LessPass works similar to Master Password, it doesn’t store your passwords because the password is generated with your login, master password and the site you’re logging in to.</li>
+ 	<li><strong>EnPass: </strong><a href="https://www.enpass.io/">Enpass</a> manages passwords, payment information, and other credentials. It’s available for multiple platforms including iOS, Android, Windows, macOS and Chrome OS. Enpass does not store the encryption key to your stored credentials. The encryption key is instead derived from your master password. With Enpass, your data is stored locally on your device unless you decide to sync your data to the cloud. You can store you Enpass data on the cloud storage provider of your choice and Enpass never stores your data on its servers.</li>
+</ul>
+</li>
+</ul>
+<strong>Read More: <a href="https://choosetoencrypt.com/tech/best-password-manager-password-generator-tools/"><em>The Best Password Manager &amp; Generator Tools</em></a></strong>
+
+<hr />
+
+<h2 id="spyware-removal"><strong>Spyware Removal</strong></h2>
+If you computer has already been compromised, or you're noticing strange things happening, you should use a spyware detection and removal tool. These tools maintain lists of the most current and common malware threats so your system stays as secure as possible.
+<ul>
+ 	<li style="list-style-type: none;">
+<ul>
+ 	<li><strong>SuperAntiSpyware: </strong><a href="https://www.superantispyware.com/">SuperAntiSpyware</a> identifies and removes malware from your computer, and blocks known and emerging threats. It's easy to download and install on your device. SuperAntiSpyware protects your computer from threats: spyware, adware, trogans, ransomware, PUPs, hijackers and other threats.</li>
+ 	<li><strong>Emsisoft Emergency Kit: </strong><a href="https://www.emsisoft.com/en/home/emergencykit/">Emsisoft Emergency Kit</a> is a free malware detection and removal tool for Windows that can scan your device without an installation. It offers quick scans, malware scans and custom scans so it's fully configurable to fit your needs. Emsisoft's Emergency Kit is rated 5 out of 5 by CNET and is recommended by PCMag.com.</li>
+ 	<li><strong>SpywareBlaster: </strong><a href="https://www.brightfort.com/spywareblaster.html">SpywareBlaster</a> by Brightfort prevents the installation of spyware and other potentially unwanted software. It also helps prevent tracking cookies from collecting information about you. SpywareBlaster runs in the background on your computer and lets you browse the web without losing the core functionality of the sites you visit.</li>
+ 	<li><strong>AVG Antivirus Free: </strong>AVG is a respected privacy and security software company. <a href="https://www.avg.com/en-us/free-antivirus-download">AVG AntiVirus FREE</a> has a quick and easy install process and works to detect and prevent malware and performance issues. It also has recently been redesigned and updated to clearly show you how you're protected. AVG does have a paid antivirus solution, but the free version offers high-level security protection.</li>
+ 	<li><strong>ComboFix: </strong><a href="https://combofix.org/">ComboFix</a> is a program that scans your computer for known malware and then attempts to remove these automatically. In addition to removing the most common malware threats, it also gives instructions for removing malware that isn't automatically removed by the program.</li>
+ 	<li><strong>Avast Free Antivirus: </strong><a href="https://www.avast.com/en-us/free-antivirus-download">Avast Free Antivirus</a> scans for security and performance issues and tells you how to fix things instantly. It protects you in real-time by analyzing unknown files before they get to you. It's designed for effortless security so you can keep your devices secure without advanced technical knowledge or additional effort.</li>
+</ul>
+</li>
+</ul>
+
+<hr />
+
+<h2 id="privacy-laws"><strong>Legality of Privacy Tools</strong></h2>
+In most countries, using tools to <a href="http://choosetoencrypt.com/privacy/29-privacy-tools-and-products-to-protect-your-data/">protect your privacy</a> is totally legal. However, under some authoritarian regimes VPNs and other privacy measures are actually illegal. Because internet privacy promotes free speech and transfer of information, governments that suppress free speech often block these tools to maintain control of political discourse and criticism.
