@@ -1,8 +1,8 @@
 theme: jekyll-theme-minimal
 name: Shield Your Info
-description: Sharing Internet Privacy and Security Tips <br><ul>
- 	<li>Learn More at <a href="https://choosetoencrypt.com"><strong>ChooseToEncrypt</strong></a></li>
- 	<li>Visit <a href="https://www.searchencrypt.com"><strong>Search Encrypt</strong></a></li></ul>
+description: Sharing Internet Privacy and Security Tips
+* Learn More at [ChooseToEncrypt](https://choosetoencrypt.com).
+* Visit [Search Encrypt](https://www.searchencrypt.com).
 logo: assets/shield your info-01.png
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
