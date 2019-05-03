@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Google is Inescapable, Here's Why..."
+date: 2019-05-03
+---
+
+<img class="alignnone size-large" src="https://shieldyour.info/assets/privacy-eye-01.jpg" alt="" width="640" height="320" />
+Google collects information from you from so many places it's nearly impossible to avoid its reach. Its full suite of products allows it to collect information about people in many different ways. These products are how Google provides enough value to attract users and track their data.
+<h2>Google Analytics</h2>
+According to BuiltWith.com, Google Analytics is running on over <a href="https://trends.builtwith.com/analytics/Google-Analytics">27 million websites</a>. Of the top 1 million websites, nearly 68 percent are using Google analytics and that number increases to 87 percent in the top 10,000 websites. Analytics is how Google gets a better understanding of how people interact with the websites they visit to improve their advertising targeting.
+<h2>Google AMP</h2>
+Google AMP is a service that caches data on Google servers around the world, with the purpose of speeding up browsing for mobile devices and slower network connections.
+
+Google recently announced that mobile Chrome users won't be able to tell the difference between sites using AMP and those that don't. AMP may speed up web browsing but it creates issues for people who would rather not be tracked online.
+<h2>Gmail</h2>
+Gmail is hard to avoid, because of it's massive user base. Even if you don't personally have a Gmail account, you will likely have to exchange messages with someone who does. Even if you're using a <a href="https://choosetoencrypt.com/privacy/11-private-email-services-to-keep-your-emails-confidential/">private email service</a>, Google may still have access to the contents of your emails.
+<h2>Google Cloud</h2>
+Google Cloud offers a number of cloud computing services and products. Google can collect information from any user that interacts with products that use Google's cloud services.
+<h2>Google Maps API</h2>
+Any website that has an embedded map from Google Maps also collects your information. The map, especially when combined with Google Analytics, can share your location information and other browsing behavior with Google.
+<h2>Google Firebase</h2>
+Firebase is a development platform for mobile and web apps. <a href="https://firebase.googleblog.com/2018/10/whats-new-at-firebase-summit-2018.html">Over 1.5 million apps</a> were using Firebase as of October 2018. Since Firebase allows developers to sync data across apps, sites and other services, Google can then monitor that data as it passes through their servers.
+<h2>Conclusion</h2>
+It's impossible to use the internet normally and not expose some information to Google. Google is so powerful because they have all of these different methods of collecting user data. This allows them to put all of this information together to create very advanced and complete data profiles about billions of internet users. Information from one Google service would be intrusive and fairly representative of
+
+In 2018, Google's revenue from advertising was <a href="https://www.statista.com/statistics/266249/advertising-revenue-of-google/">$116 billion</a>. All of Google's products contribute to that massive number. Google's most popular product, its search engine, is a way of collecting information about what people are interested in. Search data is so powerful because it gives deep insight into user intent and what they're looking for. Google can then target those users with ads more specifically than any other ad network.
+
+<strong>Read More: <em><a href="https://hackernoon.com/data-privacy-concerns-with-google-b946f2b7afea">Data Privacy Concerns with Google - Hacker Noon</a></em></strong>
