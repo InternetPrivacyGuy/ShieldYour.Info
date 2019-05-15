@@ -1,0 +1,95 @@
+<meta http-equiv="refresh" content="0; URL='https://choosetoencrypt.com/search-engines/duckduckgo-features-that-make-it-unique/'" /> 
+---
+layout: post
+title: "DuckDuckGo Features That Make It Unique"
+date: 2019-05-15
+---
+In DuckDuckGo's earlier days, it was regarded as a "stripped-down" version of Google. Privacy advocates were becoming concerned with Google's long list of <em>other</em> <em>services</em> besides its search engine. Google was once clean and simple, but had become covered with ads and other issues. Although DuckDuckGo was once a very simple metasearch engine, it has become <a href="http://techland.time.com/2011/06/16/duck-duck-go-the-in-n-out-burger-of-search-engines/#ixzz1PXPmPOeK">especially feature-rich</a> over the past few years.
+<h2><strong>Instant Answers</strong></h2>
+[caption id="attachment_4870" align="aligncenter" width="765"]<img class="size-full wp-image-4870" src="https://choosetoencrypt.com/wp-content/uploads/2019/05/instant-answer.png" alt="duckduckgo instant answer" width="765" height="297" /> DuckDuckGo Instant Answer[/caption]
+
+Many DuckDuckGo searches include "Instant Answers", which give you answers to your questions directly on the search results page. The search engine draws instant answers from over 100 sources. DuckDuckGo has over 1200 Instant Answers according to it's <a href="https://duck.co/ia">developer page</a>. These answers include coding cheat sheets, games and abbreviations.
+<h3><strong>Tons of Other Embedded Answers</strong></h3>
+<ul>
+ 	<li style="list-style-type: none;">
+<ul>
+ 	<li><strong>Rhymes</strong></li>
+ 	<li><strong>Loan Calculator</strong></li>
+ 	<li><strong>Calendar</strong></li>
+ 	<li><strong>Lorem Ipsum Generator</strong></li>
+ 	<li><strong>URL-encoding</strong></li>
+ 	<li><strong>Binary to Decimal Converter</strong></li>
+</ul>
+</li>
+</ul>
+<h2><strong>!Bangs</strong></h2>
+!Bangs let you directly search other websites from DuckDuckGo. For example, type "!amazon" before your search term and you can search Amazon without having to navigate to Amazon.com first. If DuckDuckGo is set as your homepage this can be a very useful tool. However, we have to point out that !bangs are not "private" searches. Even though you're searching from DuckDuckGo, your search is passed through the website you're searching. This is a convenience tool, but it loses DuckDuckGo's privacy protection. According to its informational page about !bangs, there are over 12,000 bangs and that number is constantly growing because anyone can <a href="https://duckduckgo.com/newbang">add a !bang to DuckDuckGo</a>.
+
+<strong>Read More: <em><a href="https://medium.com/digiprivacy/why-does-duckduckgo-offer-a-google-bang-ba75a98d382d">Why Does DuckDuckGo Offer a Google !Bang? - DigiPrivacy</a></em></strong>
+<h2><strong>Is It Raining &amp; Weather Search</strong></h2>
+On DuckDuckGo, you can search for "Is It Raining" and it will tell you whether or not it's raining in your location. For other private search engines, this would be an issue. Finding out user locations typically creates privacy concerns, but DuckDuckGo does so without storing your IP address in its server logs or creating unique cookies. While this feature seems rather basic, it's something that other private search engines don't often include. For paranoid internet users, this feature could be an issue because it does use an IP lookup to determine you approximate location. Startpage, for example, doesn't include local weather results. This adds an extra step for anyone looking for weather results, but it sticks to the "privacy" claims that a search engine doesn't need your IP address to deliver useful search results.
+<h3><strong>DuckDuckGo Weather Search</strong></h3>
+[caption id="attachment_4862" align="alignnone" width="1307"]<img class="wp-image-4862 size-full" src="https://choosetoencrypt.com/wp-content/uploads/2019/05/duckduckgo-weather-search.png" alt="duckduckgo weather search" width="1307" height="885" /> DuckDuckGo Weather Search[/caption]
+<h3><strong>Startpage Weather Search</strong></h3>
+[caption id="attachment_4858" align="alignnone" width="1149"]<img class="wp-image-4858 size-full" src="https://choosetoencrypt.com/wp-content/uploads/2019/05/startpage-weather.png" alt="startpage weather search results" width="1149" height="725" /> <strong>Startpage Weather Search</strong>[/caption]
+<h3><strong>Search Encrypt Weather Search</strong></h3>
+[caption id="attachment_4860" align="alignnone" width="1153"]<img class="wp-image-4860 size-full" src="https://choosetoencrypt.com/wp-content/uploads/2019/05/search-encrypt-weather.png" alt="search encrypt weather results" width="1153" height="760" /> <strong>Search Encrypt Weather Search</strong>[/caption]
+<h2><strong>Keyboard Shortcuts</strong></h2>
+Another convenient feature that DuckDuckGo has is a number of keyboard shortcuts. These let you navigate your search results page without taking your hands off your keyboard. You can use these shortcuts to open a selected result or to open that result in the background. From DuckDuckGo's <a href="https://help.duckduckgo.com/duckduckgo-help-pages/features/keyboard-shortcuts/">Help Page</a>:
+
+<strong>Open results:</strong>
+<ul>
+ 	<li style="list-style-type: none;">
+<ul>
+ 	<li>Enter or l or o — go to the highlighted result, or use it right away to go to the first result</li>
+ 	<li>Ctrl/Cmd+Enter — open a result in the background</li>
+ 	<li>d — domain search (if a result is highlighted)</li>
+ 	<li>' or v — open the highlighted result in a new window/tab. Since this uses JavaScript, you need to turn off pop-up blockers first.</li>
+</ul>
+</li>
+</ul>
+<strong>Move around:</strong>
+<ul>
+ 	<li style="list-style-type: none;">
+<ul>
+ 	<li>← and → — navigate Instant Answer tabs. When an Instant Answer is open, navigate within the Instant Answer.</li>
+ 	<li>↓ or j — next search result</li>
+ 	<li>↑ or k — previous search result</li>
+ 	<li>/ or h — go to search box</li>
+ 	<li>s — go to misspelling link (if any)</li>
+ 	<li>t — go to top</li>
+ 	<li>m — go to main results</li>
+</ul>
+</li>
+</ul>
+<h2><strong>Maps Search</strong></h2>
+[caption id="attachment_4866" align="aligncenter" width="1200"]<img class="wp-image-4866 size-full" src="https://choosetoencrypt.com/wp-content/uploads/2019/05/duckduckgo-map-search-e1557944521673.png" alt="duckduckgo map search" width="1200" height="335" /> <strong>DuckDuckGo Map Search</strong>[/caption]
+
+If DuckDuckGo determines that a map would be relevant to your search term, it will return a map using OpenStreetMap. You can then select from a number of providers (Apple Maps, Google Maps, Bing Maps, HERE Maps) for directions from one address to another. DuckDuckGo Maps works to find an address on a map, but doesn't offer built in directions. Since you have to go to a third-party to get directions, your location may be shared with the provider you choose. This is a privacy issue that needs to be more clearly disclosed. Since DuckDuckGo doesn't have the tracking that Google, Bing and other search engines use, you will need to type in a city, an address, or another location to get a map of your specific location.
+<h2><strong>Embedded Social Media Profiles</strong></h2>
+If you search for a brand or a person, DuckDuckGo finds their social profiles and will embed them in your search results. This is a useful tool for getting the latest updates from a brand or other account without the extra step of going to Twitter.
+
+[caption id="attachment_4865" align="aligncenter" width="742"]<img class="wp-image-4865 size-full" src="https://choosetoencrypt.com/wp-content/uploads/2019/05/duckduckgo-searchencrypt-twitter.png" alt="Search Encrypt Twitter - DuckDuckGo Search" width="742" height="283" /> <strong>DuckDuckGo - <a href="https://twitter.com/searchencrypt?lang=en">Search Encrypt Twitter</a></strong>[/caption]
+<h2><strong>Software Search</strong></h2>
+DuckDuckGo has a search feature for when you search for "alternatives to _____", it will give you a number of alternative services. These services aren't all "privacy-friendly" but this feature is a good way to find privacy-focused alternatives to mainstream software and internet tools.
+
+<img class="size-full wp-image-4867 aligncenter" src="https://choosetoencrypt.com/wp-content/uploads/2019/05/alternative-software.png" alt="" width="987" height="337" />
+<h2><strong>Link Shortening and Expanding</strong></h2>
+You can type "shorten [URL you want to shorten]" into DDG's search bar and it will return a shortened link using <a href="https://is.gd">is.gd</a>. Is.gd is very simple and is privacy friendly, especially compared to other link shorteners like Goo.gl or bit.ly.
+
+[caption id="attachment_4868" align="aligncenter" width="713"]<img class="wp-image-4868 size-full" src="https://choosetoencrypt.com/wp-content/uploads/2019/05/url-shortener.png" alt="DuckDuckGo URL Shortener" width="713" height="208" /> DuckDuckGo Link Shortener[/caption]
+
+<hr />
+
+<h2><strong>DuckDuckGo Has Many Great Features, But...</strong></h2>
+While these features really set DuckDuckGo apart from its competition, it seems that it may have lost sight of its core goal: <strong>Privacy</strong>. Many of these features add convenience but come at the expense of privacy, DuckDuckGo's number one value proposition. For example, adding !bangs lets people search Google and a number of other non-private sites directly from DuckDuckGo. There is not a clear enough warning that using a Google !bang is the exact same thing as going to 'www.google.com' and searching from there. People could easily get the impression that their searches are private because they use a !bang, even though that's not the case.
+
+DuckDuckGo's Weather search is another tool that adds <em>convenience</em> at the cost of privacy. This is a similar trap that Google fell into in its early days. In order to provide a more user-friendly experience it added more features. Many of these features required data about how people interacted with Google and what their needs were. If DuckDuckGo is going to call itself a private search engine, it should put privacy first, even if it means it can't offer the same level of usability as Google or Facebook. If you want to keep your data out of Google's hands, DuckDuckGo is a solid choice, but if it offers !bangs that take you to Google and links to Google Maps, it isn't doing its job.
+
+<strong>Read More: <a href="https://choosetoencrypt.com/search-engines/duckduckgos-biggest-privacy-flaw/"><em>DuckDuckGo's Biggest Privacy Flaw</em></a></strong>
+<h3><strong>Alternatives to DuckDuckGo</strong></h3>
+<ul>
+ 	<li><strong><a href="https://www.searchencrypt.com/">Search Encrypt</a> – </strong>We use local encryption so your searches aren’t visible to others on your network. Our <a href="https://choosetoencrypt.com/privacy/how-search-engines-encrypt-your-data/">AES-256 encryption</a> is the industry standard for encryption, and one of the most secure.</li>
+ 	<li><a href="https://hackernoon.com/untraceable-search-engines-alternatives-to-google-811b09d5a873"><strong>StartPage</strong></a> <strong>– </strong>StartPage is most popular in Europe, especially in Germany. It is a private search engine that sources its results from Google, but eliminates the tracking and storing of you data.</li>
+</ul>
+There are a number of other private search engines that have stuck to their biggest focus, <strong>privacy</strong>. If people wanted convenience, but had to pay with their data, then they would likely continue using Google's data collection engine. If you want privacy, you should use a <a href="http://choosetoencrypt.com/search-encrypt/about-search-encrypt/">search engine</a> that actually puts your privacy first.
