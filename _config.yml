@@ -6,6 +6,7 @@ markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 plugins:
   - jekyll-seo-tag
+  - jekyll-redirect-from
 twitter:
   username: searchencrypt
   card: summary
