@@ -1,0 +1,102 @@
+---
+layout: post
+title: "The Best Free Encryption Software for 2019"
+redirect_to: https://choosetoencrypt.com/tech/best-free-encryption-software-for-2019/
+date: 2019-05-31
+---
+Encryption is widely recognized as one of the best ways to keep all of your digital information private. The idea of keeping written communications private has been around for nearly as long as writing itself. Modern encryption methods are nearly impossible to crack, even using extremely powerful supercomputers. These services use encryption to protect your files, your internet activity, and your communication. It's hard to justify <em>not using</em> encryption tools when there are so many options available regardless of your technical abilities or personal needs.
+
+<hr />
+
+<h2><strong>Full Disk Encryption</strong></h2>
+Full Disk Encryption is when all the contents of a hard drive including the encryption program itself are encrypted. This level of encryption converts all device data in a form that can only be read by a user with the encryption key. This key is what the encryption system uses to reverse the encrypted data into a decrypted format.
+<h3><strong>1. BitLocker</strong></h3>
+<a href="https://en.wikipedia.org/wiki/BitLocker"><strong>BitLocker</strong></a> is a full disk encryption feature included with Microsoft Windows. It was originally added to Windows' operating system in 2004. It has three encryption modes: <strong>transparent operation mode, user authentication mode</strong>, and <strong>USB key mode</strong>. This gives users control over how they verify their identity and access their files.
+<h3><strong>2. FileVault 2</strong></h3>
+<strong><a href="https://support.apple.com/en-us/HT204837">FileVault 2</a></strong> is Apple's encryption program that encrypts data on Macs to prevent any unwanted access to files and other information. All macOS users have access to FileVault and will just need to enable it to encrypt their hard drives. FileVault2 supports older Mac hardware, and can be centrally managed if you're using it across all devices on a business network. It's easy to set up because it is included in macOS.
+<h3><strong>3. LUKS</strong></h3>
+<a href="https://guardianproject.info/code/luks/"><strong>LUKS</strong></a> (Linux Unified Key Setup) is a disk encryption service for Linux. Unlike other Linux disk encryption solutions, LUKS stores all setup information in the partition header, which enables the user to transport or migrate any data seamlessly.
+<h3><strong>4. VeraCrypt</strong></h3>
+<strong><a href="https://www.veracrypt.fr/en/Home.html">VeraCrypt </a></strong>is a disk encryption software for Windows, MacOS and Linux. It works by making a virtual encrypted disk within a file and mounts it as a real disk. This way you can store your files on your physical hard drive, but they are protected in this virtual disk. You can also use VeraCrypt to encrypt external storage devices like flash drives or external hard dives.
+<h3><strong>5. CipherShed</strong></h3>
+<strong><a href="https://www.ciphershed.org/">CipherShed</a> </strong>is a free encryption software for keeping your data secure and private. It started as a fork of the now-discontinued TrueCrypt Project. CipherShed is available for Windows, macOS and Linux. It's open source so you can <a href="https://github.com/CipherShed/CipherShed">view the code here</a>.
+
+<hr />
+
+<h2><strong>File Encryption Software</strong></h2>
+File encryption software is a type of program users install on their devices to encrypt specific files on his or her computer. It's used much like full disk encryption except it only applies to certain files that the user chooses. If someone doesn't want to install full disk encryption because of user-experience issues, they can use file encryption software to only encrypt the sensitive files on their devices. Then when they need to access these files they may have to enter a password or use another authentication measure to view them.
+<h3><strong>1. Encrypto</strong></h3>
+<strong><a href="https://macpaw.com/encrypto">Encrypto</a> </strong>lets you encrypt files before sending them to friends or coworkers. Drop a file into Encrypto, set a password, and then send it with added security. This is an especially useful tool if you want information to remain confidential but still want to use email or other messaging programs to send it. You can create an embedded password hint that only the intended recipient would be able to decipher or understand. When you send a file that's encrypted with Encrypto, you can use almost any method to send it, including AirDrop, email, iMessage or Dropbox.
+<h3><strong>2. Cryptomator</strong></h3>
+<strong><a href="https://cryptomator.org/">Cryptomator</a> </strong>is a free, client-side encryption software for your cloud files. It’s totally open source and relies only on donations for its revenue. When installed on your device, Cryptomator uses transparent encryption which means you won’t notice a difference when working with your encrypted files. It makes it easy to access and work with your files even in their encrypted form. Cryptomator lets you create vaults anywhere, even within your existing Dropbox or Google Drive.
+<h3><strong>3. Boxcryptor</strong></h3>
+<strong><a href="https://www.boxcryptor.com/en/">BoxCryptor</a></strong> is a free encryption program available for multiple platforms that creates an encrypted folder that can be placed inside your cloud storage folder. It's easy to use as all you have to do to encrypt a file is place it inside the "Boxcryptor" folder. To then access those files you just have to open BoxCryptor, navigate to the encrypted folder and enter your password.
+<h3><strong>4. AES Crypt</strong></h3>
+<strong><a href="https://www.aescrypt.com/">AES Crypt</a></strong> is a file encryption software available on several operating systems that uses the industry standard Advanced Encryption Standard (AES) to easily and securely encrypt files.
+
+You do not need to be an expert to use AES Crypt, nor do you need to understand cryptography. When using Windows, the only thing you need to do is right-click on a file, select AES Encrypt or AES Decrypt, enter a password, and AES Crypt will do the rest. On a Mac, you can drag a file to the AES Crypt program and provide the required password. AES Crypt also offers command line support for more technically adept users.
+<h3><strong>5. EncFS</strong></h3>
+<a href="https://github.com/vgough/encfs"><strong>EncFS</strong></a> is a free cyptographic filesystem. It transparently encrypts files, which means that an authenticated end user cannot tell that the data was encrypted before he or she opens it. EncFS encrypts files using a volume key, which is stored either within or outside the encrypted source directory. Users need a password to decrypt this key.
+<h3><strong>6. AxCrypt</strong></h3>
+<a href="https://www.axcrypt.net/"><strong>AxCrypt</strong></a> is an open-source file encryption software for Windows, Mac and mobile. It's available in both free and paid versions. It lets users compress, delete, encrypt and decrypt, and edit files. AxCrypt is a file-based encryption program as opposed to a container-based program. This means each individual file is encrypted rather than storing files in an encrypted container or folder. You can also use Axcrypt to protect files in your DropBox or Google Drive account using AES-128 and AES-256 encryption standards. To access the encrypted contents of a file or folder Axcrypt uses either a password or a key file. You can use AxCrypt to delete files and it will scramble the data before deleting them. This helps prevent any unwanted access to your files after they've been deleted.
+
+<hr />
+
+<h2><strong>Encrypted Internet Traffic</strong></h2>
+If you're concerned with keeping your internet browsing private, the best way to keep it that way is encryption. This essentially scrambles information like the websites you visit and your <a href="http://choosetoencrypt.com/tech/what-is-my-ip-address/">IP address</a> so that websites you visit can't easily identify you. A secure browser using privacy extensions, connected to the web via VPN will help keep your identity hidden and other tracking information private.
+<h3><strong>1. Tor Browser</strong></h3>
+Tor (The Onion Router) is one of the most trusted and established names in advanced internet security and privacy. Tor Browser uses Tor’s distributed network of volunteer-run relays to bounce your communications all over. This prevents anyone from monitoring your internet connection and learning which sites you visit and where you’re located. Tor Browser is available for Windows, MacOS and Linux. Tor is essentially a beefed-up version of Firefox that is set up to run on Tor’s anonymous network. Tor can protect you from ‘browser fingerprinting’, which is when a tracker identifies you based on the characteristics of your browser.
+<h3><strong>2. ExpressVPN</strong></h3>
+<strong><a href="https://www.linkev.com/?a_fid=se-blog">ExpressVPN</a></strong> is a virtual private network service offered by the British Virgin Islands-based company Express VPN International Ltd.<sup id="cite_ref-expressvpn-tos_1-0" class="reference"></sup> The software is marketed as a privacy and security tool that encrypts users’ web traffic and masks their IP addresses. <sup id="cite_ref-2" class="reference"></sup>In 2018, <a href="https://www.techradar.com/vpn/best-vpn">TechRadar</a> named the services its Editors’ Choice.
+<h3><strong>3. NordVPN</strong></h3>
+<a href="https://go.nordvpn.net/aff_c?offer_id=15&amp;aff_id=15989"><strong>NordVPN</strong></a> is a personal virtual private network (VPN) service provider. It has desktop applications for Windows, macOS, and Linux, mobile apps for Android and iOS<sup id="cite_ref-4" class="reference"></sup>, as well as an application for Android TV. <sup id="cite_ref-5" class="reference"></sup>Manual setup is available for wireless routers, NAS devices and other platforms.<sup id="cite_ref-6" class="reference"></sup> In 2017, PC Magazine rated NordVPN as the year’s best VPN service.
+<h3><strong>4. HTTPS Everywhere</strong></h3>
+<strong><a href="https://www.eff.org/https-everywhere">HTTPS Everywhere</a></strong> is a Firefox, Chrome, and Opera extension that encrypts your communications with many major websites, making your browsing more secure. It makes it easy to browse the web with more security. If a website supports HTTPS, the extension automatically redirects the site to its secure, HTTPS version.
+
+<hr />
+
+<h2><strong>Email Encryption</strong></h2>
+Email has been around for decades, as such there are some security issues with the nature of how email works. Using an encryption protocol or an encrypted email provider will prevent the contents of your emails from falling into the wrong hands.
+<h3><strong>1. OpenPGP</strong></h3>
+<strong><a href="https://www.openpgp.org/">OpenPGP</a> </strong>is likely the most widely used email encryption standard available. Its main purpose is for encrypting email communications but is also used for encrypted messaging and password managers. OpenPGP is available for all operating systems, including Windows, macOS, Android and iOS. It was created and standardized in 1997 and so far has yet to be cracked by intelligence organizations or any other groups with an interest in viewing the contents of your emails.
+<h3><strong>2. GNU Privacy Guard</strong></h3>
+<strong><a href="https://www.gnupg.org/">GnuPG</a> </strong>is a free implementation of the OpenPGP standard. It lets you encrypt your data and communications. This is a command line tool, so it’s for more technically advanced users, although GNU Privacy Guard has a number of easy integrations with other applications. GnuPG was first introduced in 1997 and has been a great piece of free software ever since.
+<h3><strong>3. Tutanota</strong></h3>
+<strong><a href="https://tutanota.com/">Tutanota</a></strong> is an open-source end-to-end encrypted email software and freemium hosted secure email service. Its business model excludes earning money through advertisement relying solely on donations and Premium subscriptions. As of March 2017, Tutanota had over 2 million users. Tutanota lets you send encrypted emails to people using any email provider with password protected contents, making it a good choice if you want to communicate securely with Gmail users, for example.
+<h3><strong>4. ProtonMail</strong></h3>
+<strong><a href="https://protonmail.com/">ProtonMail</a> </strong>is an encrypted email service that was founded in 2014. It uses end-to-end encryption so emails remain in encrypted form from the user’s computer to ProtonMail’s servers. In January of 2017, ProtonMail had over 2 million users. ProtonMail is based in Switzerland, which has notoriously strong privacy laws, including the Swiss Federal Data Protection Act.
+
+ProtonMail is open source, so it’s a good choice if that is an important factor for you. Another positive aspect of ProtonMail is its newly redesigned inbox, which makes navigating your emails much easier.
+<h3><strong>5. Mailfence</strong></h3>
+<strong><a href="https://mailfence.com/en/">Mailfence</a> </strong>is an encrypted email service that uses OpenPGP encryption and digital signatures. It is available in a free form with limited storage capacity. Paid plans are also available for those looking for more features and storage. You can also find a <a href="https://mailfence.com/m/">mobile version here</a>. If you currently use Ymail, Gmail or Hotmail, you can import your account into Mailfence for more privacy.
+
+<strong>Read More: <a href="http://choosetoencrypt.com/privacy/11-private-email-services-to-keep-your-emails-confidential/"><em>11 Private Email Services to Keep Your Emails Confidential</em></a></strong>
+
+<hr />
+
+<h2><strong>Encrypted Messaging Systems</strong></h2>
+If you're using standard SMS texting you're leaving your communications open to surveillance from your mobile carrier and government agencies.
+<h3><strong>1. Signal</strong></h3>
+<a href="https://signal.org/"><strong>Signal</strong> </a>uses end-to-end encryption and is “painstakingly engineered” to keep your communication private. Signal is an Open Source project, and is supported by grants and donations, meaning it can put users first, by putting people over profits. It emphasizes delivering a “fast, simple, and secure messaging experience”.
+<h3><strong>2. Telegram</strong></h3>
+<a href="https://telegram.org/"><strong>Telegram</strong> </a>offers a private, cloud-based messaging platform for desktop and mobile users. It has grown to over 100 million monthly active users. Telegram uses end-to-end encryption, and is considered one of the most secure messaging platforms. You can send self-destructing messages that will disappear from both your and the recipient’s device after a set amount of time.
+<h3><strong>3. Wickr</strong></h3>
+<strong><a href="https://wickr.com/">Wickr Me</a> </strong>is a messaging solution designed with privacy in mind. Wickr pushes the notion that privacy is for everyone. It uses end-to-end encryption and perfect forward secrecy. Like <a href="https://www.searchencrypt.com/">Search Encrypt</a>‘s chooses not to store any of your data on our servers, Wickr never even sees your communications on its servers. In addition to Wickr Me, the company offers Wickr Pro and Wickr Enterprise, which are designed for private messaging on a larger scale. These both offer voice and video functionality, while Wickr Me offers voice alone.
+
+<strong>Read More: <em><a href="https://choosetoencrypt.com/privacy/private-email-messaging-platforms-for-communicating-in-confidence/">Private Messaging Platforms for Confidential Communication</a></em></strong>
+
+<hr />
+
+<h2><strong>Other Encryption Tools</strong></h2>
+<h3><strong>1. Let's Encrypt</strong></h3>
+Let’s Encrypt is a nonprofit, founded in 2014 by the <a href="https://letsencrypt.org/isrg/">Internet Security Research Group</a>, that issues SSL/TLS certificates to the masses. It’s a free tool that has gained major support from companies like Mozilla, <a href="https://www.eff.org/">Electronic Frontier Foundation</a> (EFF), Google and Facebook. According to <a href="https://letsencrypt.org/about/">its website</a>, Let’s Encrypt “is a free, automated, and open certificate authroity (CA), run for the public’s benefit.” The fact that it’s free to use has helped spread encryption across the internet. Before Let’s Encrypt if a website wanted to use HTTPS and <a href="https://choosetoencrypt.com/tech/search-encrypt-uses-ssl-to-protect-user-data/">SSL encryption</a>, it was a convoluted and technically advanced process.
+
+<strong>Read More: <em><a href="https://choosetoencrypt.com/news/lets-encrypt-is-spreading-encryption-across-the-internet/">Let's Encrypt is Spreading Encryption Across the Internet</a></em></strong>
+<h3><strong>2. KeePass/KeePassX</strong></h3>
+<strong><a href="https://keepass.info/">KeePass</a> </strong>stores and generates passwords with top-notch security. It’s a free, open source, lightweight and easy-to-use password manager with many extensions and plugins.
+
+<strong><a href="https://www.keepassx.org/">KeePassX</a> </strong>is a cross-platform password manager. It’s a fork of KeePass originally developed for macOS and Linux, but is currently available for Windows, macOS and Linux.
+
+<hr />
+
+<strong>Read More: <a href="http://choosetoencrypt.com/tech/8-companies-making-great-cybersecurity-hardware/"><em>8 Companies Making Great Cybersecurity Hardware</em></a></strong>
