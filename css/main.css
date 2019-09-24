@@ -35,13 +35,12 @@ footer {
     font-size: .8em;
 }
 
-ul.posts { 
+!important ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
+    width: 70%;
 }
 
 ul.posts li {
     list-style: none;
 }
-ul.posts li span {
-    font-weight: 600;
